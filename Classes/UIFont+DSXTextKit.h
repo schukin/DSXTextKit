@@ -24,12 +24,12 @@
 
 #import <UIKit/UIKit.h>
 
-NSString * const DSXFontTextStyleHeadline;
-NSString * const DSXFontTextStyleBody;
-NSString * const DSXFontTextStyleSubheadline;
-NSString * const DSXFontTextStyleFootnote;
-NSString * const DSXFontTextStyleCaption1;
-NSString * const DSXFontTextStyleCaption2;
+extern NSString * const DSXFontTextStyleHeadline;
+extern NSString * const DSXFontTextStyleBody;
+extern NSString * const DSXFontTextStyleSubheadline;
+extern NSString * const DSXFontTextStyleFootnote;
+extern NSString * const DSXFontTextStyleCaption1;
+extern NSString * const DSXFontTextStyleCaption2;
 
 @interface UIFont (DSXTextKit)
 
