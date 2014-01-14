@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'DSXTextKit'
-  s.version      = '1.0.0'
+  s.version      = '0.0.1'
   s.summary      = 'TextKit for iOS 6.'
   s.description  = 'TextKit for iOS 6.'
   s.homepage     = 'https://github.com/schukin/DSXTextKit'
